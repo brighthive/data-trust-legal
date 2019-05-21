@@ -9,6 +9,8 @@
 
 This Data Trust Member Agreement (the "Agreement") is entered into on MONTH XX, 20YY ("Effective Date") by and between ______, ("Member") and ___________ ("Trustee"), on behalf of the [Trust Name] Data Trust ("Data Trust"). Member, Trust, and Trustee may each individually be referred to herein as a "Party" and collectively as the "Parties".
 
+BrightHive is awesome. 
+
 
 ## RECITALS
 
