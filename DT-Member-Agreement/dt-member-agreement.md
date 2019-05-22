@@ -196,17 +196,13 @@ C. Counterparts. This Agreement may be executed in multiple counterparts, each o
 
 D. Force Majeure. Neither Party shall be liable for any failure or delay in performing its obligations under this Agreement, or for any loss or damage resulting therefrom, due to acts of God, the public enemy, terrorist activities, riots, fires, and similar causes beyond such Party's control.
 
-e. **Governing Law.** This Agreement shall be governed by and interpreted in accordance with the internal substantive laws of the primary state of residence of the Trustee.
+E. Governing Law. This Agreement shall be governed by and interpreted in accordance with the internal substantive laws of the primary state of residence of the Trustee.
 
+F. Publicity. Neither Party shall make reference to the other Party in a press release or any other written statement in connection with the Project without the other Party's prior consent, which consent shall not be unreasonably withheld, if it is intended for use in the news media. If there is no notice or disapproval within 48 hours after delivery to the other party for its review, the material shall be deemed approved. Notwithstanding the foregoing, Trustee shall be permitted to use Member's name in a list of Data Trust Members that may also include a brief description of the Trust goals and priorities.
 
-f. **Publicity**. Neither Party shall make reference to the other Party in a press release or any other written statement in connection with the Project without the other Party's prior consent, which consent shall not be unreasonably withheld, if it is intended for use in the news media. If there is no notice or disapproval within 48 hours after delivery to the other party for its review, the material shall be deemed approved. Notwithstanding the foregoing, Trustee shall be permitted to use Member's name in a list of Data Trust Members that may also include a brief description of the Trust goals and priorities.
+## 13. Survival.
 
-
-## 11. Survival.
-
-
-Articles 1-11 shall survive termination or expiration of this Agreement for any reason.
-
+Articles 1-13 shall survive termination or expiration of this Agreement for any reason.
 
 IN WITNESS WHEREOF, the Parties hereto have executed this Agreement in duplicate by proper persons thereunto duly authorized.
 
@@ -251,22 +247,19 @@ IN WITNESS WHEREOF, the Parties hereto have executed this Agreement in duplicate
 ## EXHIBIT A
 
 
-## DATA TRUST GOALS, PROJECTS AND ALLOWABLE USES
+## DATA TRUST GOALS, PROJECTS, AND ALLOWABLE USES
 
 
 ### Goals
-
+[Data Trust Members should include Goals for the Data Trust]
 
 ### Projects
+[Data Trust Members should include Projects for the Data Trust]
 
+### Allowable Uses
+[Data Trust Members should include Allowable Uses for the Data Trust]
 
-### Allowed Uses
-
-
-
-[INSERT ADDITIONAL ALLOWABLE USES DESCRIPTION]
-
-An electronic registry of EXHIBIT A Data Trust Goals, Projects and Uses is maintained and updated [insert Data Trust Goals, Projects and Uses Registry URL]
+An electronic registry of EXHIBIT A Data Trust Goals, Projects and Allowable Uses is maintained and updated [insert Data Trust Goals, Projects and Uses Registry URL]
 
 
 ## EXHIBIT B
@@ -275,28 +268,20 @@ An electronic registry of EXHIBIT A Data Trust Goals, Projects and Uses is maint
 ## MEMBER-CONTRIBUTED DATA RESOURCES
 
 
+[This section will be completed by Data Trust Member when they have an understanding of the data elements they will be contributing to the Data Trust]
 
-
-[INSERT MEMBER CONTRIBUTED DATA RESOURCES, TIERS, AND DESCRIPTIONS]
-
-An electronic registry of EXHIBIT B Member-contributed Data at [insert Data Trust Member-contributed Data Resources Registry URL]
-
-
+An electronic registry of EXHIBIT B Member-contributed Data Resources at [insert Data Trust Member-contributed Data Resources Registry URL]
 
 
 ## EXHIBIT C
 
 
-## TRUST-MANAGED DATA RESOURCE DESCRIPTION 
+## TRUST-MANAGED DATA RESOURCE DESCRIPTION
 
 
-
-
-[INSERT TRUST-MANAGED DATA RESOURCE DESCRIPTION]
+[This section will be completed by Trustee as Trust-managed Data Resources are approved by the Governance Board]
 
 An electronic registry of EXHIBIT C is maintained and updated at [insert Data Trust-managed Resource Registry URL]
-
-
 
 
 ## EXHIBIT D
@@ -305,29 +290,20 @@ An electronic registry of EXHIBIT C is maintained and updated at [insert Data Tr
 ## APPROVED USERS, USES, AND ACCESS TIER (APPLICATION DEVELOPERS, RESEARCHERS, INSTITUTES, AND CONSORTIA)
 
 
-
-
-[INSERT APPROVED USERS, USES, AND ACCESS TIERS]
+[Data Trust Members should insert any approved users, uses, and access tiers for their Member-contributed Data Resources. Trustee should do so for Trust-managed Data Resources.]
 
 An electronic registry of EXHIBIT D is maintained and updated at [insert Data Trust User Registry URL]
-
-
 
 
 ## EXHIBIT E
 
 
-## DAGS, METHODS, AND ALGORITHMS
+## DIRECTED ACYCLIC GRAPHS (DAGs), METHODS, AND ALGORITHMS
 
 
-
-
-
-[INSERT APPROVED METHODS, ALGORITHMS, AND ANONYMIZATION]
+[If Data Trust Member currently has Directed Acyclic Graphs (DAGs), Methods, Algorithms, and/or Anonymization, insert those in this section. Trustee or Affiliate will insert DAGs, Methods, and Algorithms for the Data Trust Infrastructure.]
 
 An electronic registry of EXHIBIT E is maintained and updated at [insert Data Trust DAGs, Methods, and Algorithms Registry URL]
-
-
 
 
 ## EXHIBIT F
@@ -335,9 +311,11 @@ An electronic registry of EXHIBIT E is maintained and updated at [insert Data Tr
 
 ## DATA TRUST ETHICAL PRINCIPLES
 
-**Values**
+[Data Trust Member should review Exhibit F and provide feedback on current ethical principles as well as include additional Ethical Principles]
 
-The Data Trust, Trustee, Members, and Approved Users commit to the following key values in developing and maintaining the Data Trust-managed Data Resources, Approved Projects, and Allowable Uses.
+Values
+
+The Data Trust including, Trustee, Members, and Approved Users, commit to the following key values in developing and maintaining the Data Trust-managed Data Resources, Projects, and Allowable Uses.
 
 Fairness
 
@@ -353,37 +331,34 @@ Practice humility and openness. Transparent practices, community engagement, and
 
 Reliability
 
-Ensure that every effort is made to glean a complete understanding of what is contained within data, where it came from, and how it was created. Extend this effort for future users of all data and derivative data.
+Ensure that every effort is made to glean a complete understanding of data, where it came from, and how it was created. Extend this effort for future users of all data and derivative data.
 
-**Data Trust Ethical Principles**
+Data Trust Ethical Principles
 
-All data trust members, data stewards, trustee and affiliates, researchers and other approved users commit to:
+All Data Trust Members, Trustee and Affiliates, researchers and other approved users commit to:
 
-1. Consider (if not collect) informed and purposeful consent of data subjects for all projects, and discard resulting data when that consent expires.
-2. Make best effort to guarantee the security of data, subjects, and algorithms to prevent unauthorized access, policy violations, tampering, or other harm or actions outside the data subjects' consent.
+1. Consider collecting informed and purposeful consent of data subjects for all projects, regardless of legal requirements, and discard resulting data when that consent expires.
+2. Make best effort to guarantee the security of data, subjects, and algorithms to prevent unauthorized access, disclosure of sensitive information, policy violations, tampering, or harm to  data subjects.
 3. Make best effort to protect anonymous data subjects, and any associated data, against any attempts to reverse-engineer, de-anonymize, or otherwise expose confidential information.
     *   This includes all intermediate results, working with individuals or companies to help them maintain the anonymity of all data and parties involved, and supporting the rights to explanation, recourse, and rectification for any data subjects impacted by data work.
 4. Practice responsible transparency as the default where possible, throughout the entire data lifecycle.
     *   This includes providing enough context and documentation to enable other trained practitioners to understand and evaluate the use of data.
-5. Foster diversity by making efforts to ensure inclusion of participants, representation of viewpoints and communities, and openness. The data community should be open to, welcoming of, and inclusive of people from diverse backgrounds.
+5. Foster diversity and openness by making efforts to ensure inclusion of participants from a variety of communities and socioeconomic backgrounds and with a broad representation of viewpoints.
     *   This can be achieved by: being conscious of, and owning the results of actions, regardless of intent; promoting the voices of marginalized groups; acknowledging and self-checking privilege; accepting checks of privilege by others in good faith, and using privilege to advocate for equity.
     *   The data community will not remain silent when witnessing others behaving in a manner that is not accessible, open, welcoming and inclusive.
 6. Acknowledge and mitigate unfair bias throughout all aspects of data work.
-    *   This includes but is not limited to providing details and methodologies around data collection, processing and storage, and actively working to identify and disclose bias in algorithms, training data, and test data.
-7. Hold up datasets with clearly established provenance as the expected norm, rather than the exception.
+    *   This includes but is not limited to providing details and methodologies around data collection, processing and storage; and actively working to identify and disclose bias in algorithms, training data, and test data.
+7. Make datasets with clearly established provenance the expected norm, rather than the exception.
     *   As a data collector, be responsible for recording provenance; as a data publisher, be responsible for propagating provenance; as a data scientist, be responsible for reviewing, considering, and declaring what is known about data provenance.
     *   Provenance is a living part of data work and can evolve with the project and all reasonable efforts should be made to understand and pass on provenance work.
-8. Respect relevant tensions of all stakeholders as it relates to privacy and data ownership.
+8. Respect the needs of all stakeholders as they relate to privacy and data ownership.
 9. Take great care to communicate clearly, responsibly and accessibly.
-    *   This includes: acknowledging and disclosing caveats and limitations to the process and outputs; considering and providing clear opportunities for feedback from all stakeholders; considering and discussing whether something should be done (not just if it can be done); and clearly communicating who may be impacted, and how they are impacted, in order to minimize any potential harm from data work.
+    *   This includes: acknowledging and disclosing caveats and limitations to the process and outputs; considering and providing clear opportunities for feedback from all stakeholders; considering and discussing whether something should be done (not just if it can be done); and clearly identifying and communicating who may be impacted, and how they are impacted, in order to minimize any potential harm from data work.
 10. Ensure that all data practitioners take responsibility for exercising ethical imagination in their work, including considering the implication of what came before and what may come after, and actively working to increase benefit and prevent harm to others.
 
 [INSERT ADDITIONAL DATA TRUST ETHICAL PRINCIPLES]
 
 An electronic registry of EXHIBIT E is maintained and updated at [insert Data Trust Ethical Principles Registry URL]
-
-
-
 
 
 ## EXHIBIT G
@@ -392,17 +367,19 @@ An electronic registry of EXHIBIT E is maintained and updated at [insert Data Tr
 ## DESCRIPTION OF DATA TRUST INFRASTRUCTURE, TECHNICAL SPECIFICATIONS, AND PII PROCEDURES
 
 
+[The Data Trust Technical Trustee or their Affiliate(s) will include description of Data Trust Infrastructure, Technical Specifications, and PII Procedures here]
+
 
 An electronic version of EXHIBIT G is maintained and updated at [insert Data Trust Infrastructure, Technical Specifications, and PII Procedures URL]
-
-
 
 
 ## EXHIBIT H
 
 
-## ADDITIONAL CONDITIONS, MEMORANDA OF UNDERSTANDING OR DATA USE AGREEMENTS GOVERNING MEMBER-CONTRIBUTED DATA
+## ADDITIONAL CONDITIONS, MEMORANDA OF UNDERSTANDING, OR DATA USE AGREEMENTS GOVERNING MEMBER-CONTRIBUTED DATA
 
+
+[Data Trust Members should include copies of any existing Memoranda of Understanding, or Data Use Agreements governing Member-contributed Data Resources between Data Trust Members, Trustees and/or Affiliate(s)]
 
 
 An electronic version of EXHIBIT H is maintained and updated at [insert MOU/DUA Registry URL]
