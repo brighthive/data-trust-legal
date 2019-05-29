@@ -100,14 +100,23 @@ C. Each Data Trust Member, including the Trustee, has one equal vote on the Gove
 D. An electronic registry of all Governance Board representatives shall be maintained by the Governance Board chair and updated at the request of Member. Additionally, an electronic registry of all Governance Board decisions and vote tallies, including abstentions, will be maintained by the Governance Board chair on behalf of the Data Trust.
 
 E. Governance Board Composition, Responsibilities, and Voting
+
   a. The primary responsibility of the Governance Board is to monitor the creation and sharing of data trust-managed resources, review and approve new data trust-managed resources, and identify and approve new data trust users and expansions. The Governance Board is also responsible for reviewing the performance of the Trustee, and voting to replace Trustee when deemed appropriate by the Governance Board.
+  
   b. Governance Board meetings shall be held at a minimum of once a quarter, or more frequently at the request of any Governance Board representative.
+  
   c. Governance Board meetings will be organized and managed by the Governance Board chair.
+  
   d. Governance Board meetings are open to all Governance Board representatives to discuss the status of the Data Trust, review current approved project(s), renew current uses and projects up for renewal, approve newly proposed projects and uses, review, modify, and add Ethical Commitments, review Trustee's performance, renew or change Trustee based on performance of duties, approve Trust management budgets, and conduct any other business the Governance Board deems necessary for Data Trust governance. Additionally, Governance Board representatives may invite data stewards or subject matter experts to attend Governance Board meetings in order to provide substantive, technical, and/or contextual expertise for the purposes of discussion.
+  
   e. The Governance Board may elect to hold meetings and votes in-person, remotely or electronically (via email or some other electronic messaging platform).
+  
   f. Governance Board decisions about projects and approved uses, whether new or existing, must be approved unanimously by all Governance Board representatives. A unanimous vote may be obtained even if one or more Governance Board representatives abstain from voting. Members with Data Governance representatives who abstain from a vote may elect to have their data excluded from the approved project or new approved use. Trustee will be responsible for ensuring that any project or use approved unanimously by a voting subset of Members will not include data from any abstaining Member which elects to exclude their data.
+  
   g. Governance Board decisions about adopting or updating the Trust's ethical principles and guidelines shall require a unanimous vote. A unanimous vote may be obtained even if one or more Governance Board representatives abstains from voting.
+  
   h. The Governance Board will periodically review the performance of the Trustee. Through a simple majority vote, the Governance Board may choose to change the Trustee at any time based on poor performance or violation of one or more of the terms of the Agreement. Replacing the Trustee does not void this Agreement. In the event that a new Trustee is selected, the new Trustee will assume the Trustee duties within 30 days and the current Trustee will continue to carry out its duties during that time. This same process will govern instances when a trustee chooses to leave their role as Trustee. Once selected, all rights, obligations, and responsibilities of the Trustee under the Agreement shall transfer to new Trustee, the electronic registry of this Agreement shall be updated to reflect the current Trustee. Abstentions do not count either as a vote for or against and are not included in the tally, but are noted in the record by the Governance Board chair.
+  
   i. Governance Board members must be notified of an upcoming vote at least 1 week prior to the scheduled vote. Governance Board members may vote either in-person or electronically within 24 hours of the scheduled vote. Any Governance Board representative who does not provide a vote to the chair either in-person or electronically within 24 hours of a scheduled vote shall be considered abstaining. Governance Board representatives  may temporarily delegate their voting rights to any other individual or Governance Board representative by informing chair 24 hours in advance of any vote that they are delegating their voting rights and to whom the voting rights are to be delegated.
 
 
