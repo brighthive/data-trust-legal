@@ -496,12 +496,12 @@ An electronic registry of EXHIBIT F is maintained and updated at [insert Data Tr
 
 
 ### 
-*Approved Uses*
+*Allowable Uses*
 
 **[Data Trust Members should include Allowable Uses for member-contributed data and/or trust-managed data resources]**
 
-An electronic registry of Exhibit C Data Trust Goals, Projects and Approved Uses is maintained and updated [insert Data Trust Goals, Projects and Uses Registry URL]
-
+An electronic registry of Exhibit C Data Trust Goals, Projects and Allowable Uses is maintained and updated [insert Data Trust Goals, Projects and Uses Registry URL]
+##
 
 ## 
 ### EXHIBIT D
@@ -668,7 +668,7 @@ An electronic registry of EXHIBIT G is maintained and updated at [insert Data Tr
 
 An electronic version of EXHIBIT H is maintained and updated at [insert Data Trust Infrastructure, Technical Specifications, and PII Procedures URL]
 
-
+##
 
 
 ## 
@@ -682,7 +682,7 @@ An electronic version of EXHIBIT H is maintained and updated at [insert Data Tru
 
 An electronic version of EXHIBIT H is maintained and updated at [insert MOU/DUA Registry URL]
 
-
+##
 
 
 ## 

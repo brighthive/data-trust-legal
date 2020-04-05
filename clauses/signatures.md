@@ -4,7 +4,7 @@ IN WITNESS WHEREOF, the Parties hereto have executed this Agreement in duplicate
 
 <table>
   <tr>
-   <td>[Data Trust Trustee Name]
+   <td> ${ trustee_org_name } 
    </td>
    <td>[Data Trust Member Name]
    </td>
@@ -66,7 +66,7 @@ IN WITNESS WHEREOF, the Parties hereto have executed this Agreement in duplicate
   <tr>
    <td>[Data Trust Member Name]
    </td>
-   <td>[Trustee Affiliate Name]
+   <td> ${ trustee_affiliate_org_name } 
    </td>
   </tr>
   <tr>
