@@ -12,7 +12,7 @@ This Data Trust Agreement (the "Agreement") is entered into on MONTH XX, 20YY ("
 
 
 ## 
-### Recitals
+### RECITALS
 
 WHEREAS, the Trustee will be acting on behalf of all Data Trust Members to support the creation and ongoing maintenance of the Data Trust to achieve defined Shared Goals and enable the Approved Projects and Allowable Uses ("Goals, Projects, and Uses") as further detailed in Exhibit C attached hereto and updated and maintained electronically in the Data Trust Goals, Approved Projects, and Allowable Uses Registry.
 
@@ -169,8 +169,6 @@ NOW, THEREFORE, in consideration of the premises and mutual covenants herein con
 ## 
 ### 2. Data Trust Member Responsibilities.
 
-
-
 1. Data Trust Members (“Members”) agree to clearly identify and label data provided to Trustee for use by the Data Trust hereunder with the appropriate data security classification level in Exhibit D. Members will collectively agree on the data security classification levels to be used by the data trust. From information provided in Exhibit D, an electronic registry of member-contributed data resources will be created by Trustee or Trustee Affiliate. Upon creation of such a registry, Members agree to maintain and update data and their classifications therein. Members agree to defend and hold harmless the Data Trust and Trustee and Trustee Affiliate as well as their respective trustees, officers, agents, and employees from any damages, liabilities, claims, and expenses (including reasonable attorney's fees) that result from the mislabeling of data provided to Trustee hereunder.
 2. Members shall be responsible for obtaining all necessary consents and otherwise complying with all applicable laws and other rules and regulations prior to sharing personal information with the Trustee for use by the Data Trust. Necessary consents may include, but not be limited to consent for personal information to be used for research purposes, if research is an approved use of member-contributed data resources and/or trust-managed data resources. 
 3. Members represent and warrant that they have secured all necessary approvals from any third parties, such as organizations or individuals from which the data originates (if applicable), and have the legal right to provide Trustee personal information in acting on behalf of the Data Trust for the purposes contemplated by this agreement. Further, Members assume all responsibility for damages and costs to the extent resulting from its breach of the representation and warranty.
@@ -241,9 +239,7 @@ NOW, THEREFORE, in consideration of the premises and mutual covenants herein con
 ## 
 ### 9. Liability.
 
-
 Each Party represents and certifies that:
-
 
 1. It has the right and necessary corporate authority to enter into this Agreement.
 2. It has obtained all necessary consents, waivers, and permission to fulfil the purposes contemplated by this Agreement. For the avoidance of doubt, Member shall be solely responsible for obtaining all necessary consents and otherwise complying with applicable law in transmitting data to the Trustee and to permit the Trustee to perform its obligations pursuant to this Agreement.
@@ -286,9 +282,9 @@ Each Party represents and certifies that:
 ## 
 ### 14. Survival.
 
-
 Articles 1-13 shall survive termination or expiration of this Agreement for any reason.
 
+##
 IN WITNESS WHEREOF, the Parties hereto have executed this Agreement in duplicate by proper persons thereunto duly authorized.
 
 
@@ -386,14 +382,11 @@ IN WITNESS WHEREOF, the Parties hereto have executed this Agreement in duplicate
 </table>
 
 
-
 ## 
-
 
 
 ## 
 ## EXHIBIT A
-
 
 ## 
 ### DATA TRUST ETHICAL PRINCIPLES
