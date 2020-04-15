@@ -246,6 +246,9 @@ NOW, THEREFORE, in consideration of the premises and mutual covenants herein con
     1. Use Case Title
     2. Use Case Description
     3. Use Case Terms, including duration of data sharing, data archiving or disposal policies, allowable uses of Trust-managed data resources, approved users, uses, and access levels, and data products to be created as a result of data sharing
+    4. Trust-managed Data Resources resulting from the data shared for this use case
+    5. Approved Users, Uses, and Access Levels
+    6. Directed Acyclic Graphs
   5. Members will individually document all member-contributed data resources, respectively, contributed to the Data Trust for the use case along with each data element’s security classification level and allowable use(s), in the Member-contributed Data resources section of Exhibit D, hereto.
   6. On behalf of the Data Trust, Trustee will document Trust-managed Data Resources approved by the Governance Board in Exhibit E hereto.
   7. On behalf of the Data Trust, Trustee will document Approved Users, Uses, and Access Levels approved by the Governance Board in Exhibit F hereto.
