@@ -1,5 +1,5 @@
 ## 
-### 10. Confidentiality.
+**9. Confidentiality.**
 
 1. In performance of this Agreement, the Parties may disclose to each other, either in writing or orally, information which the disclosing Party deems to be proprietary and/or confidential (hereinafter, "Confidential Information") and not shared with the Trust, but may be necessary for the Trustee to perform its duties. Such information shall be marked “proprietary” or “confidential” by the disclosing Party.
 2. Confidential Information shall be maintained in confidence during the term of this Agreement and for a period of three (3) years following the termination of this Agreement, except to the extent that it is required to be disclosed by law, regulation or judicial or administrative process. Data destruction and/or return procedures will be agreed upon by the Governance Board before any such data is shared, and documented in Exhibit H attached hereto. After such time, Confidential Information shall be destroyed or returned per the terms described in Exhibit H hereto.
