@@ -1,6 +1,6 @@
 ## 
-### 11. Ethical Use.
+**10. Ethical Use.**
 
-1. Parties agree to abide by the ethical principles included in Exhibit F hereto around data trust creation, management, and use. Violation of these ethical principles may result in immediate revocation of Trust membership, revocation of access and use by approved Researchers or Users, or revocation of Trustee status by Trust.
+1. Parties agree to abide by the ethical principles included in Exhibit A hereto around data trust creation, management, and use. Violation of these ethical principles may result in immediate revocation of Trust membership, revocation of access and use by approved Researchers or Users, or revocation of Trustee status by Trust.
 2. Trustee or Trustee Affiliate agrees to include all directed acyclic graphs (DAGs), methods, and algorithms in Exhibit E hereto, and maintain a publicly available DAGs, Methods, and Algorithms registry with plain language descriptions of all relevant algorithms and models used by Trustee or its Affiliates, Members, or other approved users for informing decision making by an individual or organization using any Trust-managed Data Resource to promote and maintain algorithmic transparency. 
 3. Ethical principles enumerated in this Agreement may be updated through unanimous vote by the Governance Board. Any approved changes or additions by the Governance Board are applicable to all Members, Trustee, Trustee Affiliate, and its  Data Trust Users within thirty (30) days of modification. Trustee must update the online registry of ethical principles within 7 days of Governance Board approval and send electronic notice to all Members and Data Trust Users of the changes to the ethical obligations within 14 days of approval.
