@@ -1,5 +1,5 @@
 ## 
-### 13. Miscellaneous.
+**12. Miscellaneous.**
 
 1. **Amendments.** Except as otherwise expressly provided herein, this Agreement may not be modified, amended or altered in any way except by a written agreement signed by the Parties or electronic consent provided by Parties.
 2. **Assignment**. No Party may assign this Agreement or delegate any of its duties, in whole or in part, without the prior written or electronic consent of the other party; provided, however, that: (i) the Trustee may assign this Agreement and delegate its duties to an Affiliate; and (ii) either Party may assign this Agreement to an entity that acquires all or substantially all of the assets or business of such Party. If any assignee refuses to be bound by all of the terms and obligations of this Agreement or if any assignment is made in breach of the terms of this Agreement, then such assignment shall be null and void and of no force or effect.
