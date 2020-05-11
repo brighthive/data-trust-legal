@@ -1,4 +1,4 @@
 ## 
-### 14. Survival.
+### 13. Survival.
 
-Articles 1-13 shall survive termination or expiration of this Agreement for any reason.
+Articles 1-12 shall survive termination or expiration of this Agreement for any reason.
