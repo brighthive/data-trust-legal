@@ -1,6 +1,6 @@
 
 ## 
-## EXHIBIT A
+## EXHIBIT B
 
 ## 
 ### DATA TRUST ETHICAL PRINCIPLES
