@@ -1,5 +1,5 @@
 ## 
-### 8. Proprietary Rights.
+**7. Proprietary Rights.**
 
 1. Member shall maintain ownership over any methodologies and code developed using only its own data, except for the code, software, or algorithms developed by the Trustee or its Affiliate(s) specific to Member data necessary to support and maintain the Trust and approved Projects and Uses.
 2. To the extent practicable, Trustee and Trustee Affiliate(s) will release all software and algorithms developed or managed under Projects and Uses, as described in Exhibit C attached hereto, on behalf of the Trust as open source software unless otherwise determined by a vote of the Governance Board. In the event such software cannot be made available as open source software due to technical or other limitations, Trustee shall grant Member a non-exclusive, royalty-free license to use the software for the purposes set forth in Exhibit C attached hereto. Notwithstanding anything to the contrary, Trustee is not required to license or incorporate anything into software that Trustee reasonably believes would infringe another Member’s intellectual property rights or that Trustee is not authorized to license.
