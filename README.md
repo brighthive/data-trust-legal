@@ -1,6 +1,6 @@
 # BrightHive Data Trust Legal Templates
 
-Data Trusts are vehicles for multiple organizations to securely, responsibly, and ethically combined their data for one or more shared purposes.  
+Data Trusts are vehicles for multiple organizations to securely, responsibly, and ethically combine their data for one or more shared purposes.  
 
 This repository contains versioned clauses and templates the BrightHive and its Trusted Partner Network use to develop and maintaining data trusts networks of organizations that engage with us.
 
