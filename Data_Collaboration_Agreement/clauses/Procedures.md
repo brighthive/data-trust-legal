@@ -1,0 +1,16 @@
+Procedures.md
+
+## Section 11. Procedures
+### Section 11.1 General Exhibit Procedures
+Trustee, on behalf of the [Data Collaboration Governance Board](Definition), and [Members](Definition) will use Exhibits to document the following information relating to the [Data Collaboration](Definition) as outlined below:
+* **Section 11.1.1**: On behalf of the [Data Collaboration](Definition), Trustee will document Ethical Principles approved by the [Data Collaboration Governance Board](Definition) in [Exhibit A](Exhibit) hereto.
+* **Section 11.1.2**: On behalf of the [Data Collaboration](Definition), Trustee will document [Data Collaboration Governance Board](Definition) structure and procedures approved by the [Data Collaboration Governance Board](Definition) in [Exhibit B](Exhibit) hereto.
+* **Section 11.1.3**: On behalf of the [Data Collaboration](Definition), Trustee will document [Data Collaboration Governance Board](Definition) [Goals, Projects, and Use Cases](Exhibit) approved by the [Data Collaboration Governance Board](Definition) in [Exhibit A](Exhibit) hereto.
+* **Section 11.1.4**: On behalf of the [Data Collaboration](Definition), Trustee will document each Use Case approved by the [Data Collaboration Governance Board](Definition) in [Exhibit A](Exhibit), including: 1. Use Case Title, 2. Use Case Description 3. Use Case Terms, including duration of data sharing, data archiving or disposal policies, intended uses of [Collaboration-Managed Data Resources](Definition), Approved Users, Access Control Lists, and data products to be created as a result of data sharing, 4. [Data Collaboration-Managed Data Resources](Definition) resulting from the data shared for this use case, 5. Directed Acyclic Graphs.
+* **Section 11.1.5**: Members will individually document all [Member-Contributed Data Resources](Definition) contributed, respectively, to the [Data Collaboration](Definition) for the use case along with each data element’s security classification level and applicable requirements or restrictions, in the [Member-Contributed Data Resources](Definition) section of [Exhibit B](Exhibit), hereto.
+* **Section 11.1.6**: On behalf of the [Data Collaboration](Definition), Trustee will document [Data Collaboration Technical Infrastructure](Definition), [Technical Specifications](Exhibit) of the [Data Collaboration](Definition), and Personal Information Procedures approved by the [Data Collaboration Governance Board](Definition) in [Exhibit F](Exhibit) hereto.
+* **Section 11.1.7**: On behalf of the [Data Collaboration](Definition), Trustee will document [Additional Conditions, Memoranda of Understanding, or Data Use Agreements](Exhibit) Governing [Member-Contributed Data Resources](Definition) in [Exhibit B](Exhibit) hereto.
+
+### Section 11.2 Exhibit Amendment Procedures
+Exhibits may be amended at any time by approval of the [Data Collaboration Governance Board](Definition). Amendments to the exhibits do not require re-signing this [Agreement](Definition).
+* **Section 11.2.1**: On behalf of the [Data Collaboration](Definition), Trustee will document all decisions made by the [Data Collaboration Governance Board](Definition) that result in amendments to one or more Exhibits in the [Exhibits Change Management Log](Exhibit) located in [Exhibit G](Exhibit) hereto.

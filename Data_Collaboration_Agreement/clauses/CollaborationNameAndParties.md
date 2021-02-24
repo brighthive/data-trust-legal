@@ -1,0 +1,4 @@
+CollaborationNameAndParties.md
+
+## Section 1. Collaboration Name and Parties
+This Data Collaboration Agreement (the "[Agreement](Definition)") is entered into on [effective_date](Input) ("Effective Date") by and between [members_to_DCA](Input) (each individual, "[Member](Definition)" and collectively as "Members"), and [trustee_to_DCA](Input) ("[Trustee](Definition)"), on behalf of the [Data_Collaboration_Name](Input) ("[Data Collaboration](Definition)"). [Member](Definition), [Data Collaboration](Definition), and [Trustee](Definition) may each individually be referred to herein as a "[Party](Definition)" and collectively as the "Parties".

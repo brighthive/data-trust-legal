@@ -1,0 +1,20 @@
+Confidentiality.md
+
+## Section 9. Confidentiality
+### Section 9.1
+In performance of this [Agreement](Definition) the Parties may disclose to each other, either in writing or orally, information which the disclosing Party deems to be proprietary and/or confidential (hereinafter, "[Confidential Information](Definition)") and not shared with the [Data Collaboration](Definition), but may be necessary for the Trustee to perform its duties. [Confidential Information](Definition) will be considered information outside of [Tier 0](Definition), [Tier 1](Definition), or [Tier 2](Definition) data and shall consist of (i) written information clearly marked as "proprietary" or "confidential" and (ii) oral information reduced to writing within thirty days of oral disclosure and clearly marked as "proprietary" or "confidential." 
+
+### Section 9.2
+[Confidential Information](Definition) shall be maintained in confidence during the term of this [Agreement](Definition) and for a period of three years following the termination of this [Agreement](Definition), except to the extent that it is required to be disclosed by law, regulation or judicial or administrative process. After such time, [Confidential Information](Definition) shall be destroyed or returned per the terms described in [Exhibit D](Exhibit) hereto. 
+
+### Section 9.3
+[Confidential Information](Definition) does not include information which is (i) known by the [Trustee](Definition) or other Members prior to disclosure to them; (ii) generally available to the public other than as a result of breach of this [Agreement](Definition); (iii) made available to the [Trustee](Definition) or other Members by any independent third party who has the right to disclose the information; (iv) information that is published; (v) is independently developed by the [Trustee](Definition) or other Members (vi) is required to be disclosed by a court of competent jurisdiction, law, or government rule or regulation.
+
+### Section 9.4
+In such a case where legal notice of disclosure is received, the [Trustee](Definition) will advise the Member prior to disclosure so that the Member will have an opportunity to seek a protective order or other appropriate relief. 
+
+### Section 9.5
+Information regarding this [Agreement](Definition) and the activities of the [Data Collaboration Governance Board](Definition) may be subject to disclosure under the public records requirements or other applicable law. 
+
+### Section 9.6
+No Party shall disclose [Confidential Information](Definition) to any third party, and each Party shall keep strictly confidential all [Confidential Information](Definition) of the other. Using reasonable means, each Party shall protect the confidentiality thereof with at least the same level of effort that it employs to protect the confidentiality of its own proprietary and [Confidential Information](Definition) of like importance. Each Party receiving any such [Confidential Information](Definition) of the other Party may, however, disclose any portion of the [Confidential Information](Definition) of the other Party to such representatives of the receiving Party as are engaged in a use permitted by this [Agreement](Definition) and have a need to know such portion, provided that representatives: (i) are directed to treat such [Confidential Information](Definition) confidentially and not to use such [Confidential Information](Definition) other than as permitted hereby or subsequently approved by Member, and (ii) are subject to a legal duty to maintain the confidentiality thereof. No receiving arty shall use the [Confidential Information](Definition) of a disclosing Party except solely to the extent necessary in and during the performance of this [Agreement](Definition), as expressly licensed hereunder, or subsequently through electronically approved updates to this [Agreement](Definition) by a disclosing Party, or as may be required by law. The receiving Party shall be responsible for any improper use or disclosure of any of the disclosing Party's [Confidential Information](Definition) by any of the receiving Party's current or former representatives.
