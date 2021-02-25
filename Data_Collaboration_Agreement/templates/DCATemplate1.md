@@ -264,7 +264,7 @@ In consideration of the Agreement, the Parties have executed this agreement by t
 # Exhibits Registry - [Data_Collaboration_Name](Input)
 
 ## Exhibit A: Goals, Use Cases, and Projects
-[Members](Definition) will submit approved [Goals, Use Cases, and Projects](Exhibit) via the [Exhibits Registry](Exhibit). The electronic registry for [Exhibit A: Goals, Use Cases, and Projects] is maintained and updated at: [Exhibit_A_Link](Input).
+[Members](Definition) will submit approved [Goals, Use Cases, and Projects](Exhibit) via the [Exhibits Registry](Exhibit). The electronic registry for [Exhibit A: Goals, Use Cases, and Projects](Input) is maintained and updated at: [Exhibit_A_Link](Input).
 
 ### Exhibit A.1 Goals
 The Goals of the [Data_Collaboration_Name](Input) are:
@@ -288,13 +288,13 @@ The data resources of the [Data_Collaboration_Name](Input) include [Member-Contr
 [Members](Definition) of [Data_Collaboration_Name](Input) shall list approved Users, Uses, Access Tiers, and Approved Uses in the [Exhibits Registry](Exhibit). An electronic registry for [Exhibit C: Collaboration Access](Exhibit) is maintained and updated at [Exhibit_C_Link](Input).
 
 ## Exhibit D: Data Processing
-[Members](Definition), [Trustee](Definition), [Technical Trustee](Definition), and [Technical Trustee Affiliates](Definition) of [Data_Collaboration_Name](Input) shall upload Directed Acyclic Graphs (DAGs), Methods, Algorithms, and/or Anonymization into the [Exhibits Registry])(Exhibits). An electronic registry for [Exhibit D: Data Processing](Exhibits) is maintained and updated at [Exhibit_D_Link](Input).
+[Members](Definition), [Trustee](Definition), [Technical Trustee](Definition), and [Technical Trustee Affiliates](Definition) of [Data_Collaboration_Name](Input) shall upload Directed Acyclic Graphs (DAGs), Methods, Algorithms, and/or Anonymization into the [Exhibits Registry](Exhibit). An electronic registry for [Exhibit D: Data Processing](Exhibits) is maintained and updated at [Exhibit_D_Link](Input).
 
 ## Exhibit E: Technical Infrastructure Specifications
-[Technical Trustee](Definition) and any [Technical Trustee Affiliates](Definition) of [Data_Collaboration_Name](Input) will include a description of approved [Data Collaboration Technical Infrastructure](Input), technical specifications, and [PII](Definition) procedures in the [Exhibits Registry](Exhibit]. An electronic registry for [Exhibit E: Technical Infrastructure Specifications](Exhibit) is maintained and updated at [Exhibit_E_Link](Input).
+[Technical Trustee](Definition) and any [Technical Trustee Affiliates](Definition) of [Data_Collaboration_Name](Input) will include a description of approved [Data Collaboration Technical Infrastructure](Input), technical specifications, and [PII](Definition) procedures in the [Exhibits Registry](Exhibit). An electronic registry for [Exhibit E: Technical Infrastructure Specifications](Exhibit) is maintained and updated at [Exhibit_E_Link](Input).
 
 ## Exhibit F: Governance Procedures
-[Trustee](Definition) of [Data_Collaboration_Name](Input) shall add approved Governance Procedures to the [Exhibits Registry](Exhibit). An electronic registry for Exhibit F: Governance Procedures is maintained and updated at [Exhibit_F_Link](Inpupt).
+[Trustee](Definition) of [Data_Collaboration_Name](Input) shall add approved Governance Procedures to the [Exhibits Registry](Exhibit). An electronic registry for [Exhibit F: Governance Procedures](Exhibit) is maintained and updated at [Exhibit_F_Link](Input).
 
 ### Exhibit F.1
 Designated representative(s) of [Member](Definition), along with all other [Members](Definition)’ designated representatives collectively, form the [Data Collaboration Governance Board](Definition) (hereafter, the "Governance Board"). The [Data Collaboration Governance Board](Definition) is responsible for approving [Data Collaboration-Managed Data Resources](Definition) access and use, developing necessary policies and privacy standards for [Member-Contributed Data Resources](Definition), and selecting and overseeing the [Trustee](Definition) in its duties in accordance with this [Agreement](Definition).
@@ -320,4 +320,4 @@ An electronic registry of all Governance Board Representatives shall be maintain
 * **Exhibit F.5.09**: Governance Board representatives must be notified of an upcoming vote at least one week prior to the scheduled vote. Governance Board representatives may vote either in-person or electronically within twenty four hours of the scheduled vote. Notice may occur by electronic mail to the Governance Board representatives. Any Governance Board representative who does not provide a vote to the [Data Collaboration Governance Board Chair](Definition) either in-person or electronically within twenty four hours of a scheduled vote shall be considered abstaining. Governance Board representatives may temporarily delegate their voting rights to any other individual or Governance Board representative by informing [Data Collaboration Governance Board Chair](Definition) at least twenty four hours in advance of any vote that they are delegating their voting rights and to whom the voting rights are to be delegated.
 
 ## Exhibit G: Change Management Log
-The [Data_Collaboration_Name](Input) [Trustee](Definition) shall include any additions or changes to this [Agreement](Definition) or the [Exhibits Registry](Exhibit) and include a link to the change in this [Change Management Log](Definition). An electronic registry for [Exhibit G: Change Management Log] is maintained and udpated at [Exhibit_G_Link](Input).
+The [Data_Collaboration_Name](Input) [Trustee](Definition) shall include any additions or changes to this [Agreement](Definition) or the [Exhibits Registry](Exhibit) and include a link to the change in this [Change Management Log](Definition). An electronic registry for [Exhibit G: Change Management Log](Exhibit) is maintained and udpated at [Exhibit_G_Link](Input).
