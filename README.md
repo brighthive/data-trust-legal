@@ -8,7 +8,7 @@ The Agreements Constellation includes the agreement and clause templates that ou
 * **[Non-Disclosure Agreement]()** (*Coming Soon*)
 * **[Software as a Service Agreement]()** (*Coming Soon*)
 * **[Memorandum of Understanding]()** (*Coming Soon*)
-* **[Data Collaboration Agreement]()**
+* **[Data Collaboration Agreement](https://github.com/brighthive/data-trust-legal/tree/master/Data_Collaboration_Agreement)**
 * **[Data Trust Agreement](https://github.com/brighthive/data-trust-legal/tree/master/Data_Trust_Agreement)**
 
 ### Research
