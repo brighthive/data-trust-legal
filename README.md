@@ -9,7 +9,7 @@ The Agreements Constellation includes the agreement and clause templates that ou
 * **[Software as a Service Agreement]()** (*Coming Soon*)
 * **[Memorandum of Understanding]()** (*Coming Soon*)
 * **[Data Collaboration Agreement]()**
-* **[Data Trust Agreement]()**
+* **[Data Trust Agreement](https://github.com/brighthive/data-trust-legal/tree/master/Data_Trust_Agreement)**
 
 ### Research
 At Brighthive, we enjoy exploring new ways to purposefully and responsibly share information between organizations. This folder includes research about the different ways that this can be enabled from a legal standpoint. If you want to check out more general information about Brighthive, visit our [Medium Page](https://medium.com/brighthive).
