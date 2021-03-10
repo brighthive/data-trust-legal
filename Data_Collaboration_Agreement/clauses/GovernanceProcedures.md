@@ -1,7 +1,7 @@
 GovernanceProcedures.md
 
 ## Exhibit F: Governance Procedures
-[Trustee](Definition) of [Data_Collaboration_Name](Input) shall add approved Governance Procedures to the [Exhibits Registry](Exhibit). An electronic registry for [Exhibit F: Governance Procedures](Exhibit) is maintained and updated at [Exhibit_F_Link](Inpupt).
+[Trustee](Definition) of [Data_Collaboration_Name](Input) shall maintain the list approved Governance Procedures and [Data Collaboration Governance Board Representatives](Definition) in the [Exhibits Registry](Exhibit). An electronic registry for [Exhibit F: Governance Procedures](Exhibit) is maintained and updated at [Exhibit_F_Link](Inpupt).
 
 ### Exhibit F.1
 Designated representative(s) of [Member](Definition), along with all other [Members](Definition)’ designated representatives collectively, form the [Data Collaboration Governance Board](Definition) (hereafter, the "Governance Board"). The [Data Collaboration Governance Board](Definition) is responsible for approving [Data Collaboration-Managed Data Resources](Definition) access and use, developing necessary policies and privacy standards for [Member-Contributed Data Resources](Definition), and selecting and overseeing the [Trustee](Definition) in its duties in accordance with this [Agreement](Definition).
